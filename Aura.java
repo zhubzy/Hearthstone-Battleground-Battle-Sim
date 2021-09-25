@@ -1,0 +1,8 @@
+public enum Aura {
+    NONE,
+    DEATHRATTLE_TWICE,
+    DEATHRATTLE_THREE_TIMES,
+
+    DOUBLE_ATTACK
+
+}
