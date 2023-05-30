@@ -8,7 +8,7 @@ This tool provides a custome full on simulation and plans to add more features l
  - Automatically optimize minion positions 
  - Add reborn mechanics and random deathrattle mechanics
  - Implement full BG mechanics
- - 
+ - Connect to HS client
 Future:
  - Connect with HS API to automatically fetch card data / update when new patch comes out
  - Create simple GUI to help with picking minions
